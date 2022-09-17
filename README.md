@@ -1,9 +1,10 @@
 
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7E1CA&background=73CD1600&center=true&vCenter=true&width=435&lines=Hello+World" alt="Typing SVG" /></a>
+</p>
 
-
-## Hello World! 
-- 🌱 Estudando desenvolvimento web Java pelo Instituto PROA.
+- 💻 Estudando desenvolvimento web Java pelo Instituto PROA.
 
 <div align="center">
   <a href="https://github.com/LucasFranca0">
