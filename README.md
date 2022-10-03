@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7E1CA&background=73CD1600&center=true&vCenter=true&width=435&lines=Hello+World" alt="Typing SVG" /></a> 
 </p>
 <h3>- 💻 Estudando desenvolvimento web Java pelo Instituto PROA.</h2>
-<div align="center" display: "inline_block">
+<div align="center" style="display: inline_block">>
   <a href="https://github.com/LucasFranca0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFranca0&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFranca0&layout=compact&langs_count=7&theme=great-gatsby"/>
