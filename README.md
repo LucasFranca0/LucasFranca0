@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/LucasFranca0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFranca0&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFranca0&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFranca0&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 <div style="display: inline_block"><br>
    <div><img align="right" alt="8bit-moonlight" height="150" style="border-radius:50px;" src="https://img.freepik.com/vetores-premium/fundo-de-casa-de-lenhador-pixel-art-com-pinheiros-e-montanhas-no-cenario-de-jogo-de-bits-do-ceu-noturno_360488-176.jpg?w=1480">
