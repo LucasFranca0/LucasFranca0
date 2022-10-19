@@ -1,12 +1,16 @@
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7E1CA&background=73CD1600&center=true&vCenter=true&width=435&lines=Hello+World" alt="Typing SVG" /></a> 
 </p>
-<h3>- 💻 Estudando desenvolvimento web Java pelo Instituto PROA.</h3>
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/LucasFranca0">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasFranca0&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFranca0&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
+<h3>- 💻 Estudante de desenvolvimento web Java pelo Instituto PROA.</h3>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasFranca0&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasFranca0&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasFranca0&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasFranca0&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=LucasFranca0&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
+
 <div style="display: inline_block"><br>
   <img align="right" alt="8bit-moonlight" height="150" style="border-radius:50px;" src="https://img.freepik.com/vetores-premium/fundo-de-casa-de-lenhador-pixel-art-com-pinheiros-e-montanhas-no-cenario-de-jogo-de-bits-do-ceu-noturno_360488-176.jpg?w=1480">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
