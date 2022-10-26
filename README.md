@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7E1CA&background=73CD1600&center=true&vCenter=true&width=435&lines=Hello+World" alt="Typing SVG" /></a> 
 </p>
+<h3>- :books: Cursando análise e desenvolvimento de sistemas pela FAM.</h3>
 <h3>- 💻 Estudante de desenvolvimento web Java pelo Instituto PROA.</h3>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasFranca0&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasFranca0&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasFranca0&theme=2077) |
