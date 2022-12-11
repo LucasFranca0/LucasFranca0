@@ -1,7 +1,8 @@
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7E1CA&background=73CD1600&center=true&vCenter=true&width=435&lines=Hello+World" alt="Typing SVG" /></a> 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B66E&width=435&lines=Desenvolvedor+Back-end+Java" alt="Typing SVG" /></a>
 </p>
+<h3>- Olá!, me chamo Lucas, tenho 21 anos e estou à procura do meu primeiro emprego na área de programação. 
 <h3>- :books: Cursando Análise e Desenvolvimento de Sistemas pelo Centro Universitário FAM.</h3>
 <h3>- 💻 Cursando Desenvolvimento Web Java pelo Instituto PROA.</h3>
 
