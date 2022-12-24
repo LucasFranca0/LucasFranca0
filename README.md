@@ -4,7 +4,7 @@
 </p>
 👋 Olá!, me chamo Lucas, tenho 21 anos e estou à procura do meu primeiro emprego na área de programação.<br>
 :books: Cursando Análise e Desenvolvimento de Sistemas pelo Centro Universitário FAM.<br>
- 💻 Cursando Desenvolvimento Web Java pelo Instituto PROA.<br>
+ 🎓 Formado em Desenvolvimento Web Java pelo Instituto PROA.<br>
 📫 Contate-me no e-mail: lucascfranca11@gmail.com
 
 💙 LinkedIn: https://www.linkedin.com/in/lucascfranca/
