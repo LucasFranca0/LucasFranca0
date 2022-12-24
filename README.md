@@ -5,9 +5,10 @@
 👋 Olá!, me chamo Lucas e estou à procura do meu primeiro emprego na área de programação.<br>
 :books: Cursando Análise e Desenvolvimento de Sistemas pelo Centro Universitário FAM.<br>
  🎓 Formado em Desenvolvimento Web Java pelo Instituto PROA.<br>
-📫 Contate-me no e-mail: lucascfranca11@gmail.com
-
+📫 Contate-me no e-mail: lucascfranca11@gmail.com <br>
 💙 LinkedIn: https://www.linkedin.com/in/lucascfranca/
+<br><br>
+
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasFranca0&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasFranca0&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasFranca0&theme=2077) |
 | :-: | :-: | :-: |
