@@ -2,9 +2,12 @@
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B66E&width=435&lines=Desenvolvedor+Back-end+Java" alt="Typing SVG" /></a>
 </p>
-<h3>- Olá!, me chamo Lucas, tenho 21 anos e estou à procura do meu primeiro emprego na área de programação. 
-<h3>- :books: Cursando Análise e Desenvolvimento de Sistemas pelo Centro Universitário FAM.</h3>
-<h3>- 💻 Cursando Desenvolvimento Web Java pelo Instituto PROA.</h3>
+👋 Olá!, me chamo Lucas, tenho 21 anos e estou à procura do meu primeiro emprego na área de programação.<br>
+:books: Cursando Análise e Desenvolvimento de Sistemas pelo Centro Universitário FAM.<br>
+ 💻 Cursando Desenvolvimento Web Java pelo Instituto PROA.<br>
+📫 Contate-me no e-mail: lucascfranca11@gmail.com
+
+💙 LinkedIn: https://www.linkedin.com/in/lucascfranca/
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasFranca0&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasFranca0&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasFranca0&theme=2077) |
 | :-: | :-: | :-: |
