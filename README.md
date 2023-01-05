@@ -6,7 +6,8 @@
 :books: Cursando Análise e Desenvolvimento de Sistemas pelo Centro Universitário FAM.<br>
  🎓 Formado em Desenvolvimento Web Java pelo Instituto PROA.<br>
 📫 Contate-me no e-mail: lucascfranca11@gmail.com <br>
-💙 LinkedIn: https://www.linkedin.com/in/lucascfranca/
+💙 LinkedIn: https://www.linkedin.com/in/lucascfranca/ <br>
+💼 Currículo: <a href="https://app.luminpdf.com/viewer/63b751965c2a0d6ae45525de" target="_blank" class="curriculo">Clique aqui</a>
 <br><br>
 
 
