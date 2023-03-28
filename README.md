@@ -2,7 +2,6 @@
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B66E&width=435&lines=Desenvolvedor+Backend+Java+Jr." alt="Typing SVG" /></a>
 </p>
-👋 Olá!, me chamo Lucas, seja bem-vindo(a) ao meu perfil.<br>
 :books: Cursando Tecnologia em Análise e Desenvolvimento de Sistemas.<br>
  🎓 Concluído 'Desenvolvimento Web Java' pelo Instituto PROA em parceria com o Senac.<br>
 📫 Contate-me no e-mail: lucascfranca11@gmail.com <br>
