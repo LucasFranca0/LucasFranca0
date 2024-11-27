@@ -1,6 +1,6 @@
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B66E&width=435&lines=Desenvolvedor+Backend+Java" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B66E&width=435&lines=QA+Engineer" alt="Typing SVG" /></a>
 </p>
 :books: Cursando Tecnologia em Análise e Desenvolvimento de Sistemas.<br>
  🎓 Concluído 'Desenvolvimento Web Java' pelo Instituto PROA em parceria com o Senac.<br>
