@@ -19,10 +19,7 @@
   </a>  
 </div>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-
 ---
-
 
 ## 🚀 Tecnologias & Ferramentas  
 <div style="display: flex; align-items: center;">
@@ -33,6 +30,13 @@
   <img align="center" alt="Spring" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="MySQL" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+
+
+
+
+
 
 
 
