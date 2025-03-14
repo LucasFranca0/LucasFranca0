@@ -32,6 +32,7 @@
 </div>
 
 ---
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 
 ## 🌍 Redes Sociais  
 <div> 
@@ -50,3 +51,7 @@
 
 ## 🐍 Contribuições  
 ![Snake animation](https://github.com/LucasFranca0/LucasFranca0/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub followers](https://img.shields.io/github/followers/LucasFranca0?style=social)
+![GitHub stars](https://img.shields.io/github/stars/LucasFranca0?style=social)
+![GitHub commits](https://komarev.com/ghpvc/?username=LucasFranca0&color=blue)
